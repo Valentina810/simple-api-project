@@ -1,0 +1,2 @@
+### Проект для тренировки настройки джобы
+## :atom_symbol: [ :one: Настройка простой джобы для запуска api-тестов с выгрузкой отчета в AllureTestOps](https://github.com/valentina810/ci-cd/blob/main/chapters/simple_job.md)
